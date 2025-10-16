@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+@layer utilities {
+  .heading {
+    @apply w-fit h-auto px-6 py-4 mx-auto rounded-sm bg-black uppercase text-white text-2xl lg:text-4xl font-extrabold text-center leading-[46px] tracking-wider text-wrap;
+  }
+  .pink_box {
+    @apply w-full bg-primary min-h-fit pattern flex justify-center items-center flex-col py-20 px-6;
+  }
+  .sm-box {
+    @apply w-fit h-auto mx-auto bg-yellow-400 p-3 mb-4 capitalize font-bold rounded-sm text-xl;
+  }
+  .search-btn {
+    @apply bg-black text-white size-16 flex items-center justify-center rounded-full font-semibold;
+  }
+  .startup_box {
+    @apply border-[5px] shadow-200 border-black-200 hover:border-primary hover:shadow-red-300 hover:bg-primary-100 rounded-2xl p-4;
+  }
+  .box-text {
+    @apply lg:w-1/2 py-7 text-center text-lg text-white-100;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--poppins-font), sans-serif;
+}
+
+.pattern {
+  background-image: linear-gradient(
+    90deg,
+    transparent 90%,
+    rgba(251, 233, 67, 0.515)
+  );
+  background-size: 2rem;
+}
+shadow {
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+.zoom-out-image {
+  width: 100%;
+  height: 100%;
+  transform: scale(1.3);
+  transition: transform 0.7s ease;
+}
+.team-img:hover .zoom-out-image {
+  transform: scale(1);
+}

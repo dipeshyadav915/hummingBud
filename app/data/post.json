@@ -1,0 +1,363 @@
+[
+  {
+    "_id": 7,
+    "_created_at": "November 6",
+    "views": 34,
+    "author": {
+      "_id": 1,
+      "name": "Sophia",
+      "image": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "Sophia is a nature writer and environmental advocate, passionate about promoting sustainability and exploring the interconnectedness of humans with the natural world. She spends most of her time hiking and photographing wildlife in remote areas.",
+      "social": {
+        "twitter": "https://twitter.com/sophia_nature",
+        "instagram": "https://instagram.com/sophia_writes",
+        "linkedin": "https://www.linkedin.com/in/sophia-nature"
+      }
+    },
+    "title": "The Forest Symphony",
+    "description": "A deep dive into the tranquility of ancient forests, exploring the calming effects of nature and the importance of forest preservation.",
+    "image": "https://plus.unsplash.com/premium_photo-1674593231084-d8b27596b134?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8",
+    "category": "Nature",
+    "detail": "The Forest Symphony explores the profound sense of peace and connection found in ancient forests, where time slows and nature takes center stage. By walking among towering trees and listening to the whispers of the wind, this article uncovers how forests can act as both sanctuaries for wildlife and soul-soothing havens for people. Through lush imagery and sensory descriptions, readers are invited to consider how the forest's intricate ecosystem maintains balance, and why preserving these natural wonders is crucial to our environmental future."
+  },
+  {
+    "_created_at": "November 4",
+    "views": 56,
+    "author": {
+      "_id": 2,
+      "name": "Liam",
+      "image": "https://images.unsplash.com/photo-1628891435222-065925dcb365?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "Liam is a technology journalist and AI enthusiast, with a keen interest in how new technologies impact daily life. He enjoys writing about the intersections of innovation, ethics, and society.",
+      "social": {
+        "twitter": "https://twitter.com/liam_tech",
+        "linkedin": "https://www.linkedin.com/in/liam-technology"
+      }
+    },
+    "_id": 8,
+    "title": "Tech Innovation",
+    "description": "Exploring how artificial intelligence is becoming a central part of our daily lives and shaping future technologies in numerous industries.",
+    "image": "https://images.unsplash.com/photo-1720293315632-37efe958d5ec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1fHx8ZW58MHx8fHx8",
+    "category": "Technology",
+    "detail": "This article takes a deep dive into the role artificial intelligence (AI) is poised to play in transforming everyday life. From personal assistants like Siri and Alexa to AI-driven healthcare solutions, the technology is rapidly becoming integrated into nearly every facet of modern existence. The piece explores how AI can streamline tasks, predict user needs, and even learn from interactions. It also looks at the ethical implications and challenges AI poses as it evolves. With cutting-edge innovations on the horizon, this is an exciting glimpse into a future where AI plays a crucial role in our daily routines."
+  },
+  {
+    "_created_at": "November 3",
+    "views": 120,
+    "author": {
+      "_id": 3,
+      "name": "Maya",
+      "image": "https://images.unsplash.com/photo-1576023614379-f47d12365b69?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bio": "Maya is a photographer and urban explorer, capturing the hidden stories of city streets through her lens. Her work focuses on the contrasts between the energy of urban life and the quiet moments of personal connection.",
+      "social": {
+        "instagram": "https://instagram.com/maya_photos",
+        "twitter": "https://twitter.com/maya_explores"
+      }
+    },
+    "_id": 4,
+    "title": "Urban Life",
+    "description": "Capturing the vibrant and dynamic energy of city streets, and exploring the human experiences that unfold in the urban jungle.",
+    "image": "https://plus.unsplash.com/premium_photo-1730669105180-6a6eec937c74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Urban",
+    "detail": "Urban Life highlights the vibrant hustle and bustle of city streets, where life moves at a relentless pace. Through the lens of photography, this article brings to life the diverse human experiences that unfold daily in the urban jungle—whether it’s the fleeting glance of a passerby or the towering skyscrapers that define a skyline. Maya uses her photography to capture moments of stillness amidst the chaos, showing how cities can be both thrilling and isolating. She also examines the deep connections people have with their environments, as cities shape culture and identity."
+  },
+  {
+    "_created_at": "October 30",
+    "views": 89,
+    "author": {
+      "_id": 4,
+      "name": "Oliver",
+      "image": "https://images.unsplash.com/photo-1640960543409-dbe56ccc30e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "Oliver is a tech writer and futurist who is passionate about exploring the latest developments in technology. He focuses on the intersection of emerging tech, startups, and their real-world applications in various industries.",
+      "social": {
+        "twitter": "https://twitter.com/oliver_innovates",
+        "linkedin": "https://www.linkedin.com/in/oliver-tech"
+      }
+    },
+    "_id": 5,
+    "title": "Tech Innovations 2024",
+    "description": "A look into the next wave of tech innovations expected in 2024, highlighting emerging startups and their potential to disrupt industries and change the future.",
+    "image": "https://images.unsplash.com/photo-1719937050814-72892488f741?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMXx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Technology",
+    "detail": "Looking ahead to 2024, Tech Innovations explores the groundbreaking developments expected from emerging tech startups. The article predicts the next wave of advancements in artificial intelligence, blockchain, and sustainable tech. From the rise of quantum computing to breakthroughs in augmented reality, Oliver details how these innovations could reshape industries like healthcare, transportation, and education. The article also considers the challenges that these startups face, including funding, scalability, and market adoption. It offers readers a glimpse into the future of technology and its profound impact on society."
+  },
+  {
+    "_created_at": "November 2",
+    "views": 63,
+    "author": {
+      "_id": 5,
+      "name": "Emily",
+      "image": "https://images.unsplash.com/photo-1507499036636-f716246c2c23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "Emily is an education technology specialist with a deep interest in how AI can reshape learning. She works closely with schools and universities to integrate emerging tech solutions that improve student engagement and outcomes.",
+      "social": {
+        "twitter": "https://twitter.com/emily_edtech",
+        "linkedin": "https://www.linkedin.com/in/emily-edtech"
+      }
+    },
+    "_id": 6,
+    "title": "Artificial Intelligence in Education",
+    "description": "An exploration of how AI is revolutionizing education by offering personalized learning, enhancing accessibility, and improving outcomes for students.",
+    "image": "https://plus.unsplash.com/premium_photo-1668061706855-26d4cf0f6248?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxNXx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Technology",
+    "detail": "Artificial Intelligence is revolutionizing the educational landscape by offering personalized learning experiences and improving efficiency. In this article, Emily explores the transformative power of AI in classrooms, where algorithms now help tailor lessons to the individual needs of students. AI-driven tools are streamlining administrative tasks, automating grading, and even helping identify students who may need additional support. The article also highlights the ethical considerations and challenges of using AI in education, such as data privacy concerns and the digital divide. Ultimately, AI in education promises a future where learning is more accessible, customized, and effective."
+  },
+  {
+    "_created_at": "November 2",
+    "views": 63,
+    "author": {
+      "_id": 6,
+      "name": "Emily",
+      "image": "https://images.unsplash.com/photo-1594583388647-364ea6532257?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJlZSUyMGltYWdlcyUyMG9mJTIwdXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "Emily is an experienced writer and education consultant with a focus on technology in the classroom. She is passionate about improving education through innovative tech solutions and enjoys exploring how new tools can create personalized learning experiences.",
+      "social": {
+        "twitter": "https://twitter.com/emily_edtech",
+        "linkedin": "https://www.linkedin.com/in/emily-edtech"
+      }
+    },
+    "_id": 1,
+    "title": "Artificial Intelligence in Education",
+    "description": "An exploration of how AI is revolutionizing education by offering personalized learning, enhancing accessibility, and improving outcomes for students.",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWl8ZW58MHx8MHx8fDA%3D",
+    "category": "Education",
+    "detail": "Artificial Intelligence is revolutionizing the educational landscape by offering personalized learning experiences and improving efficiency. In this article, Emily explores the transformative power of AI in classrooms, where algorithms now help tailor lessons to the individual needs of students. AI-driven tools are streamlining administrative tasks, automating grading, and even helping identify students who may need additional support. The article also highlights the ethical considerations and challenges of using AI in education, such as data privacy concerns and the digital divide. Ultimately, AI in education promises a future where learning is more accessible, customized, and effective."
+  },
+  {
+    "_created_at": "November 1",
+    "views": 145,
+    "author": {
+      "_id": 7,
+      "name": "David",
+      "image": "https://images.unsplash.com/photo-1547481887-a26e2cacb5b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJlZSUyMGltYWdlcyUyMG9mJTIwdXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "David is a business strategist and writer with a focus on workforce trends and remote work technologies. He works with organizations to understand the changing dynamics of work and help them adapt to hybrid and flexible environments.",
+      "social": {
+        "twitter": "https://twitter.com/davidworkfuture",
+        "linkedin": "https://www.linkedin.com/in/david-workfuture"
+      }
+    },
+    "_id": 2,
+    "title": "The Future of Work: Remote vs. In-Office",
+    "description": "An in-depth look at the evolving dynamics between remote and in-office work and its implications for businesses and employees.",
+    "image": "https://plus.unsplash.com/premium_photo-1670249419932-a7027d9003f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVpc25lc3N8ZW58MHx8MHx8fDA%3D",
+    "category": "Business",
+    "detail": "The shift toward remote work has been one of the most significant changes in the modern workforce. This article explores the ongoing debate between remote and in-office work environments. David examines the benefits and challenges of both models, looking at productivity, collaboration, and work-life balance. The article also delves into the role of technology in enabling remote work, how businesses are adapting to hybrid work models, and what the future holds for office spaces and virtual environments. As companies rethink their work policies, this article sheds light on how work may look in the post-pandemic world."
+  },
+  {
+    "_created_at": "October 29",
+    "views": 230,
+    "author": {
+      "_id": 8,
+      "name": "Sophia",
+      "image": "https://images.unsplash.com/photo-1504194104404-433180773017?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlZSUyMGltYWdlcyUyMG9mJTIwdXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "bio": "Sophia is a science communicator and writer who specializes in space exploration. Her work brings complex scientific concepts to a general audience, making the wonders of the universe accessible to all.",
+      "social": {
+        "twitter": "https://twitter.com/sophia_space",
+        "instagram": "https://instagram.com/sophia_space"
+      }
+    },
+    "_id": 3,
+    "title": "Exploring the Universe: The Role of Space Exploration",
+    "description": "A deep dive into the advancements in space exploration, from Mars missions to satellite technologies shaping our future.",
+    "image": "https://plus.unsplash.com/premium_photo-1679756378826-08c718cd4f0e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2F0ZWxsaXRlfGVufDB8fDB8fHww",
+    "category": "Science",
+    "detail": "Space exploration has always captivated humanity’s imagination, and recent advancements have brought us closer to unraveling the mysteries of the cosmos. In this article, Sophia examines the current state of space exploration, from the success of private spaceflight companies to NASA’s Mars missions. The article looks at how space exploration is pushing technological boundaries, influencing scientific discovery, and even addressing environmental issues like climate change. With new missions to the Moon and Mars on the horizon, Sophia discusses what the future holds for space exploration and how it could transform our understanding of life beyond Earth."
+  },
+  {
+    "_created_at": "October 28",
+    "views": 89,
+    "author": {
+      "_id": 21,
+      "name": "Liam",
+      "image": "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Liam is a sustainable fashion expert who writes about the intersection of style, ethics, and the environment. He is passionate about eco-friendly design and advocates for ethical practices in the fashion industry.",
+      "social": {
+        "twitter": "https://twitter.com/liam_sustainablefashion",
+        "linkedin": "https://www.linkedin.com/in/liam-sustainablefashion"
+      }
+    },
+    "_id": 9,
+    "title": "Sustainable Fashion: The Future of Eco-Friendly Clothing",
+    "description": "An exploration of how sustainable fashion is disrupting the industry and driving change towards eco-friendly materials and ethical practices.",
+    "image": "https://plus.unsplash.com/premium_photo-1664202526559-e21e9c0fb46a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Fashion",
+    "detail": "Sustainable fashion has gained momentum in recent years as consumers and brands alike recognize the environmental impact of the fashion industry. Liam dives into the world of eco-friendly fashion, highlighting innovations in materials, ethical production processes, and the rise of second-hand and upcycled clothing. He examines how designers and large brands are embracing sustainability, from using organic fabrics to reducing waste in production. This article also looks at the future of fashion and how the industry could become more circular, promoting ethical practices that prioritize the planet over profit. Ultimately, sustainable fashion offers a hopeful outlook for a greener and more responsible future in the clothing industry."
+  },
+  {
+    "_created_at": "October 25",
+    "views": 98,
+    "author": {
+      "_id": 9,
+      "name": "Maya",
+      "image": "https://images.unsplash.com/photo-1514489024785-d5ba8dfb2198?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Maya is a lifestyle coach and public speaking expert, passionate about helping individuals overcome their fears and communicate with confidence. She has coached thousands on mastering the art of speaking and reclaiming time in a digital world.",
+      "social": {
+        "twitter": "https://twitter.com/maya_lifestylecoach",
+        "linkedin": "https://www.linkedin.com/in/maya-lifestylecoach"
+      }
+    },
+    "_id": 10,
+    "title": "Digital Detox: Reclaiming Your Time in the Tech Age",
+    "description": "A guide on how to disconnect from technology and reclaim your time, focusing on the importance of a digital detox for mental health.",
+    "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGlmZXN0eWxlfGVufDB8fDB8fHww",
+    "category": "Lifestyle",
+    "detail": "In today’s fast-paced digital world, it’s easy to become overwhelmed by the constant stream of notifications, emails, and social media updates. Maya explores the concept of a digital detox—a conscious effort to disconnect from technology in order to improve mental well-being. In this article, she outlines the benefits of taking time away from screens, such as reducing stress, improving focus, and fostering meaningful real-world connections. The article provides tips and strategies for incorporating digital detoxes into everyday life, whether it’s through scheduled tech-free hours or complete unplugging during weekends. Maya emphasizes that taking a step back from technology is essential for preserving both mental and physical health in an increasingly connected world."
+  },
+  {
+    "_created_at": "October 24",
+    "views": 205,
+    "author": {
+      "_id": 10,
+      "name": "Oliver",
+      "image": "https://images.unsplash.com/photo-1507835661088-ac1e84fe645f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Oliver is an automotive journalist and sustainability advocate with a focus on electric vehicles. He explores the evolving automotive landscape and the role of clean energy in transforming transportation.",
+      "social": {
+        "twitter": "https://twitter.com/oliver_evjourno",
+        "linkedin": "https://www.linkedin.com/in/oliver-evjourno"
+      }
+    },
+    "_id": 11,
+    "title": "The Rise of Electric Vehicles",
+    "description": "A look into the growing adoption of electric vehicles and their impact on the automotive industry and the environment.",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Technology",
+    "detail": "Electric vehicles (EVs) are quickly becoming the future of transportation, with automakers worldwide racing to produce more sustainable, energy-efficient vehicles. Oliver examines the shift from gasoline-powered cars to electric vehicles, highlighting the environmental benefits, technological advancements, and government incentives driving this change. The article also covers the challenges faced by EV manufacturers, such as battery production and range anxiety. With governments pushing for carbon-neutral transportation, the rise of EVs represents a significant turning point in the automotive industry, offering a glimpse into a more sustainable future for mobility."
+  },
+  {
+    "_created_at": "October 23",
+    "views": 340,
+    "author": {
+      "_id": 11,
+      "name": "Sophia",
+      "image": "https://images.unsplash.com/photo-1490984792589-bc12fe270585?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Sophia is a mental health writer and meditation advocate. She brings insights on mindfulness practices, mental clarity, and stress reduction, helping others improve their mental well-being through simple daily practices.",
+      "social": {
+        "twitter": "https://twitter.com/sophia_mentalhealth",
+        "linkedin": "https://www.linkedin.com/in/sophia-mentalhealth"
+      }
+    },
+    "_id": 12,
+    "title": "The Power of Meditation for Mental Clarity",
+    "description": "An exploration of how meditation can help achieve mental clarity, reduce stress, and improve overall well-being.",
+    "image": "https://plus.unsplash.com/premium_photo-1663056025073-a9c4344f8e75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TGlmZXN0eWxlfGVufDB8fDB8fHww",
+    "category": "Health",
+    "detail": "Meditation has long been a practice for improving mental health, and recent studies show that it can lead to increased clarity and focus. In this article, Sophia discusses the science behind meditation, how it can help reduce anxiety, and the ways it enhances cognitive function. The article covers different meditation techniques, from mindfulness to transcendental meditation, and how they can be incorporated into daily life. Sophia also explores the growing trend of meditation apps, offering practical tips for beginners and experienced practitioners alike. With its many benefits, meditation is becoming an essential tool for maintaining a calm and balanced mind in today’s busy world."
+  },
+  {
+    "_created_at": "October 22",
+    "views": 412,
+    "author": {
+      "_id": 12,
+      "name": "Liam",
+      "image": "https://images.unsplash.com/photo-1505529686-12fa9bea7f88?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Liam is a healthcare innovation writer and tech enthusiast, focusing on the intersection of technology and medicine. His work explores how emerging technologies like telemedicine are reshaping patient care.",
+      "social": {
+        "twitter": "https://twitter.com/liam_healthtech",
+        "linkedin": "https://www.linkedin.com/in/liam-healthtech"
+      }
+    },
+    "_id": 13,
+    "title": "Revolutionizing Healthcare with Telemedicine",
+    "description": "An overview of how telemedicine is transforming healthcare by offering remote consultations, reducing costs, and improving access to care.",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fExpZmVzdHlsZXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Health",
+    "detail": "Telemedicine has become a game-changer for the healthcare industry, offering a new way for doctors and patients to interact without the need for in-person visits. Liam explores the growth of telemedicine, highlighting its benefits in providing healthcare access to remote or underserved areas. The article also discusses the cost-effectiveness of virtual consultations, how telemedicine improves patient outcomes, and its growing adoption during the COVID-19 pandemic. With advancements in technology and the integration of artificial intelligence, telemedicine is set to continue revolutionizing the healthcare landscape."
+  },
+  {
+    "_created_at": "October 21",
+    "views": 302,
+    "author": {
+      "_id": 13,
+      "name": "Olivia",
+      "image": "https://images.unsplash.com/photo-1529986791692-bf14db692256?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Olivia is a social media analyst and researcher, studying the effects of digital platforms on society. She specializes in mental health and the impact of misinformation in the age of social media.",
+      "social": {
+        "twitter": "https://twitter.com/olivia_socmed",
+        "linkedin": "https://www.linkedin.com/in/olivia-socmed"
+      }
+    },
+    "_id": 14,
+    "title": "The Impact of Social Media on Society",
+    "description": "A critical analysis of how social media platforms affect our social interactions, mental health, and the spread of misinformation.",
+    "image": "https://plus.unsplash.com/premium_photo-1664365805083-80ff9ccfde9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c29jaWV0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Society",
+    "detail": "Social media has dramatically changed the way we communicate, socialize, and consume information. Olivia delves into the positive and negative impacts of social media, exploring how platforms like Facebook, Instagram, and Twitter shape our social behaviors, influence self-esteem, and contribute to mental health issues such as anxiety and depression. The article also addresses the growing concern over misinformation and how social media platforms are tackling the spread of fake news. With increasing scrutiny over the role of tech companies in shaping public opinion, Olivia examines what steps can be taken to mitigate the negative effects of social media on society."
+  },
+  {
+    "_created_at": "October 20",
+    "views": 150,
+    "author": {
+      "_id": 14,
+      "name": "Maya",
+      "image": "https://images.unsplash.com/photo-1466193341027-56e68017ee2d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Maya is a lifestyle coach and public speaking expert, passionate about helping individuals overcome their fears and communicate with confidence. She has coached thousands on mastering the art of speaking and reclaiming time in a digital world.",
+      "social": {
+        "twitter": "https://twitter.com/maya_lifestylecoach",
+        "linkedin": "https://www.linkedin.com/in/maya-lifestylecoach"
+      }
+    },
+    "_id": 15,
+    "title": "The Art of Public Speaking",
+    "description": "An insightful guide to mastering the art of public speaking, from overcoming stage fright to delivering impactful presentations.",
+    "image": "https://images.unsplash.com/photo-1611912901739-374ecac03e3b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29jaWV0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Lifestyle",
+    "detail": "Public speaking is a powerful skill that can open doors to personal and professional opportunities. Maya shares her expertise on overcoming the common fears of public speaking, offering practical tips to boost confidence and enhance performance. The article includes strategies for preparing impactful presentations, engaging your audience, and using body language to emphasize your message. Maya also touches on the role of storytelling in presentations, explaining how it can captivate an audience and make your speech memorable. Whether for a small meeting or a large auditorium, the art of public speaking can elevate your communication skills and help you succeed."
+  },
+  {
+    "_created_at": "October 19",
+    "views": 225,
+    "author": {
+      "_id": 15,
+      "name": "Oliver",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Oliver is an automotive journalist and sustainability advocate with a focus on electric vehicles. He explores the evolving automotive landscape and the role of clean energy in transforming transportation.",
+      "social": {
+        "twitter": "https://twitter.com/oliver_evjourno",
+        "linkedin": "https://www.linkedin.com/in/oliver-evjourno"
+      }
+    },
+    "_id": 16,
+    "title": "The Evolution of E-Commerce",
+    "description": "Exploring the rapid growth of e-commerce, the technologies that support it, and the changing landscape of online shopping.",
+    "image": "https://images.unsplash.com/photo-1594938368933-1334134aed79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c29jaWV0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Business",
+    "detail": "E-commerce has reshaped the retail industry, creating new opportunities for businesses and transforming consumer behavior. Oliver takes a deep dive into the rise of online shopping, highlighting the technologies behind it, such as AI-driven recommendations, augmented reality shopping experiences, and advanced payment systems. The article also discusses the impact of e-commerce on brick-and-mortar stores and how companies are adapting to the digital age. As e-commerce continues to evolve, Oliver explores what the future holds for online shopping and how companies will need to innovate to stay competitive."
+  },
+  {
+    "_created_at": "October 18",
+    "views": 178,
+    "author": {
+      "_id": 16,
+      "name": "Liam",
+      "image": "https://images.unsplash.com/photo-1465145177017-c5b156cd4d14?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Liam is a healthcare innovation writer and tech enthusiast, focusing on the intersection of technology and medicine. His work explores how emerging technologies like telemedicine are reshaping patient care.",
+      "social": {
+        "twitter": "https://twitter.com/liam_healthtech",
+        "linkedin": "https://www.linkedin.com/in/liam-healthtech"
+      }
+    },
+    "_id": 17,
+    "title": "Healthy Eating: The Benefits of a Plant-Based Diet",
+    "description": "A detailed look at the health benefits of adopting a plant-based diet, including weight loss, better digestion, and a reduced risk of chronic diseases.",
+    "image": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?w=500&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aGVhbHRofGVufDB8fDB8fHww",
+    "category": "Health",
+    "detail": "Adopting a plant-based diet is becoming increasingly popular due to its numerous health benefits. Liam explains how plant-based eating can lead to weight loss, improved digestion, and a reduced risk of chronic diseases such as heart disease and diabetes. The article explores various plant-based foods, including fruits, vegetables, legumes, and whole grains, and how they can be incorporated into a balanced diet. Liam also highlights the environmental benefits of plant-based eating, including reducing your carbon footprint. For those looking to make a healthier, more sustainable lifestyle choice, this article provides valuable insight into the advantages of plant-based nutrition."
+  },
+  {
+    "_created_at": "October 17",
+    "views": 145,
+    "author": {
+      "_id": 17,
+      "name": "Sophia",
+      "image": "https://images.unsplash.com/photo-1465145177017-c5b156cd4d14?w=500&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGZyZWUlMjBpbWFnZXMlMjBvZiUyMHVzZXJ8ZW58MHx8MHx8fDA%3D",
+      "bio": "Sophia is a mental health writer and meditation advocate. She brings insights on mindfulness practices, mental clarity, and stress reduction, helping others improve their mental well-being through simple daily practices.",
+      "social": {
+        "twitter": "https://twitter.com/sophia_mentalhealth",
+        "linkedin": "https://www.linkedin.com/in/sophia-mentalhealth"
+      }
+    },
+    "_id": 18,
+    "title": "The Power of Mindfulness in Daily Life",
+    "description": "How practicing mindfulness can help reduce stress, improve focus, and enhance overall mental well-being.",
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=500&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhbHRofGVufDB8fDB8fHww",
+    "category": "Health",
+    "detail": "Mindfulness is a practice that involves focusing on the present moment without judgment. Sophia explores the benefits of mindfulness in everyday life, emphasizing how it can reduce stress, increase emotional resilience, and improve mental clarity. The article provides tips on how to incorporate mindfulness into daily routines, such as through meditation, breathing exercises, or mindful walking. Sophia also discusses the growing popularity of mindfulness in workplaces and schools, where it is used to boost productivity and mental well-being. With its proven benefits, mindfulness has become an essential practice for improving mental health and achieving balance in a busy world."
+  }
+]
